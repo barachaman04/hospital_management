@@ -53,3 +53,8 @@ Unique identifiers (Reference ID, Patient ID) used for data management
 
 
 <img width="1440" alt="Screenshot 2024-08-01 at 9 43 18 PM" src="https://github.com/user-attachments/assets/1630f1ec-8c32-434c-a982-6b3c0dc8b662">
+
+<img width="1440" alt="Screenshot 2024-08-01 at 9 43 59 PM" src="https://github.com/user-attachments/assets/19cb92bf-cc51-4c25-a3e9-98fbe91db162">
+
+<img width="1440" alt="Screenshot 2024-08-01 at 9 47 31 PM" src="https://github.com/user-attachments/assets/77a92ead-2cd4-4274-b2d4-53fc436d2438">
+

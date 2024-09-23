@@ -1,10 +1,10 @@
-#Pharmacy and Hospital Management System
+# Pharmacy and Hospital Management System
 
-#Overview
+# Overview
 
-#This project is an integrated system for managing both pharmacy and hospital operations. It includes functionality for patient registration, prescription management, and hospital information handling.
+# This project is an integrated system for managing both pharmacy and hospital operations. It includes functionality for patient registration, prescription management, and hospital information handling.
 
-#Features
+# Features
 1. Login System
 
 Secure login interface for system access
@@ -33,20 +33,20 @@ Tracks issue and expiry dates of medications
 Tabular view of prescription data for easy reference
 Options to add, reset, and delete prescription information
 
-#Technical Details
+# Technical Details
 
 Developed using Python (as evidenced by the Python menu in the hospital management interface)
 Graphical User Interface (GUI) for easy interaction
 Data persistence (implied by the ability to store and retrieve patient and prescription information)
 
-#Usage
+# Usage
 
 Start the application and log in using your credentials
 Navigate between Patient Registration and Hospital Management as needed
 Use the respective forms to input and manage data
 Utilize the data view tables for quick reference of stored information
 
-#Security
+# Security
 
 Password-protected login system to ensure data privacy
 Unique identifiers (Reference ID, Patient ID) used for data management
